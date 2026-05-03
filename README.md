@@ -11,7 +11,7 @@ Role-Based Access Control (RBAC), and the Least Privilege Principle.
 - Creating ClusterRoles for cross-namespace access
 - Testing and auditing RBAC permissions
 
-## Lab Structure
+##  Structure
 
 | ServiceAccount | Role | Access |
 |----------------|------|--------|
